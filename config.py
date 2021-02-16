@@ -1,3 +1,3 @@
 #%%
-db_password = 'cm87823!'
+db_password = '1234'
 # %%
